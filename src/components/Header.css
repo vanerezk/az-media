@@ -1,0 +1,215 @@
+.site-header {
+  position: fixed;
+  inset: 0 0 auto;
+  z-index: var(--z-header);
+  transition:
+    background-color var(--dur) ease,
+    color var(--dur) ease,
+    box-shadow var(--dur) ease;
+}
+
+.site-header.is-overlay {
+  color: var(--white);
+  background: linear-gradient(to bottom, rgb(0 0 0 / 0.45), transparent);
+}
+
+.site-header.is-solid {
+  color: var(--ink);
+}
+
+/* The blur lives on a pseudo-element: backdrop-filter on the header itself
+   would become the containing block for the fixed mobile menu. */
+.site-header::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  opacity: 0;
+  background: color-mix(in srgb, var(--paper) 92%, transparent);
+  backdrop-filter: saturate(1.4) blur(12px);
+  -webkit-backdrop-filter: saturate(1.4) blur(12px);
+  transition: opacity var(--dur) ease;
+}
+
+.site-header.is-solid::before {
+  opacity: 1;
+}
+
+.site-header.is-solid.is-scrolled {
+  box-shadow: 0 1px 0 var(--line);
+}
+
+.site-header__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  height: var(--header-h);
+}
+
+.site-header__logo img {
+  width: 94px;
+  height: auto;
+}
+
+.site-nav ul {
+  display: flex;
+  gap: clamp(1.25rem, 2.5vw, 2.5rem);
+  list-style: none;
+  padding: 0;
+}
+
+.site-nav a {
+  position: relative;
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-decoration: none;
+  padding-block: 0.5rem;
+}
+
+.site-nav a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0.2rem;
+  height: 1px;
+  background: currentColor;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform var(--dur) var(--ease-out);
+}
+
+.site-nav a:hover::after,
+.site-nav a.active::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+.site-header__actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.site-header__phone {
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  font-variant-numeric: tabular-nums;
+}
+
+.site-header__phone:hover {
+  text-decoration: underline;
+}
+
+.menu-toggle {
+  display: none;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  margin-right: -10px;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+
+/* Mobile menu */
+.mobile-menu {
+  position: fixed;
+  inset: var(--header-h) 0 0;
+  z-index: var(--z-menu);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: var(--space-4) var(--gutter) calc(var(--space-4) + env(safe-area-inset-bottom));
+  background: var(--paper);
+  color: var(--ink);
+  overflow-y: auto;
+}
+
+.mobile-menu[hidden] {
+  display: none;
+}
+
+.mobile-menu ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  gap: var(--space-1);
+}
+
+.mobile-menu li {
+  opacity: 0;
+  transform: translateY(12px);
+  animation: menu-in 480ms var(--ease-out) forwards;
+  animation-delay: calc(var(--i) * 50ms + 60ms);
+}
+
+.mobile-menu nav a {
+  display: block;
+  padding-block: 0.4rem;
+  font-family: var(--font-display);
+  font-size: clamp(2.4rem, 10vw, 3.5rem);
+  line-height: 1.1;
+  text-decoration: none;
+}
+
+.mobile-menu nav a.active {
+  font-style: italic;
+}
+
+.mobile-menu__footer {
+  display: grid;
+  gap: var(--space-2);
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--line);
+}
+
+.mobile-menu__footer a:not(.btn) {
+  color: var(--muted);
+  text-decoration: none;
+  padding-block: 0.25rem;
+}
+
+@keyframes menu-in {
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (max-width: 1080px) {
+  .site-header__phone {
+    display: none;
+  }
+}
+
+@media (max-width: 900px) {
+  :root {
+    --header-h: 64px;
+  }
+
+  .site-nav {
+    display: none;
+  }
+
+  .menu-toggle {
+    display: grid;
+  }
+
+  .site-header__logo img {
+    width: 78px;
+  }
+
+  /* The hero already has a primary CTA; avoid two identical buttons on screen. */
+  .site-header.is-overlay .site-header__actions .btn {
+    display: none;
+  }
+}
+
+@media (max-width: 360px) {
+  .site-header__actions .btn {
+    display: none;
+  }
+}

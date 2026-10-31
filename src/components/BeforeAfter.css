@@ -1,0 +1,102 @@
+.ba {
+  position: relative;
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+  border-radius: var(--radius);
+  user-select: none;
+}
+
+.ba__img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.ba__before {
+  position: absolute;
+  inset: 0;
+  clip-path: inset(0 calc(100% - var(--pos)) 0 0);
+}
+
+.ba__tag {
+  position: absolute;
+  top: 1rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  background: rgb(18 17 15 / 0.7);
+  color: var(--white);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  pointer-events: none;
+}
+
+.ba__tag--before {
+  left: 1rem;
+}
+
+.ba__tag--after {
+  right: 1rem;
+}
+
+.ba__handle {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: var(--pos);
+  width: 2px;
+  translate: -1px 0;
+  background: var(--white);
+  pointer-events: none;
+}
+
+.ba__handle span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 52px;
+  height: 52px;
+  translate: -50% -50%;
+  border-radius: 50%;
+  background: var(--white);
+  box-shadow: 0 6px 24px rgb(0 0 0 / 0.25);
+}
+
+.ba__handle span::before,
+.ba__handle span::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 8px;
+  height: 8px;
+  border: solid var(--ink);
+  border-width: 0 0 2px 2px;
+}
+
+.ba__handle span::before {
+  left: 13px;
+  transform: translateY(-50%) rotate(45deg);
+}
+
+.ba__handle span::after {
+  right: 13px;
+  transform: translateY(-50%) rotate(-135deg);
+}
+
+.ba__range {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  opacity: 0;
+  cursor: ew-resize;
+  touch-action: pan-y;
+}
+
+.ba:has(.ba__range:focus-visible) .ba__handle span {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+}

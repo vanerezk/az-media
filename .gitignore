@@ -1,0 +1,32 @@
+# Dependencies and builds
+node_modules
+dist
+dist-ssr
+
+# Private source media: original photos (file names contain client
+# addresses, EXIF may contain GPS) and the id → file mapping.
+media-src/
+
+# Secrets and local config
+.env
+.env.*
+*.local
+*.pem
+*.key
+
+# Netlify CLI
+.netlify
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Editor / OS / tooling
+.claude/
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+*.sw?

@@ -1,0 +1,831 @@
+{
+ "living-warm-modern": {
+  "w": 1259,
+  "h": 945,
+  "widths": [
+   640,
+   1259
+  ],
+  "alt": "Warm modern living room with a sculptural coffee table and city art",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAwCdASoUAA8APu1kq04ppaQiMAgBMB2JZQC7ABbQRrmsYuGS+FkAAP5mYPGvbI52JaiIyM53bFcXOFpAETlECc8fxKmM00R3QzgA"
+ },
+ "living-equestrian-art": {
+  "w": 1259,
+  "h": 945,
+  "widths": [
+   640,
+   1259
+  ],
+  "alt": "Bright living room styled with neutral sofas and equestrian artwork",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAwCdASoUAA8APu1mqk4ppaOiMAgBMB2JZwC7AB7EfhvgLJsau28AAPzYhZRjJ5heEJ9q7+3HwpYASw01PPn7SJZNcOYUDN1UAWAA"
+ },
+ "bedroom-neutral": {
+  "w": 1259,
+  "h": 945,
+  "widths": [
+   640,
+   1259
+  ],
+  "alt": "Neutral primary bedroom with a bench and ceiling fan",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAwCdASoUAA8APu1Ct1apoqakGAEwHYlnAMiYHoOdM8fuus5InjgA/sP9tb9OtMjrwln355gkXPN0qmKrhm7zVX8xpM8+AW3XXXlgAAA="
+ },
+ "fireplace-desert-art": {
+  "w": 1256,
+  "h": 945,
+  "widths": [
+   640,
+   1256
+  ],
+  "alt": "Linear fireplace below a desert sunset painting",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAwCdASoUAA8APu1kqk2ppaQiMAgBMB2JYwC/OCIKD8ld3ysHQYIgAP6UCZFhH+G5waEH1ZlgnrMpNzaug4993eU/BYNkoAA="
+ },
+ "built-ins-white": {
+  "w": 2252,
+  "h": 3000,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2252
+  ],
+  "alt": "White built-in shelving with curated decor",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADQBACdASoUABsAPtlepE2oJaOiN/qoAQAbCWIAqPQZ8VTLmOtM/ik6vga2oChz+AD+6pbmvQcW7LIvROWipL1oeZYTOiTLynIlMv7POsVDQqffv687mD9AigvED1yAQ4ICWy+IyuOsNwjhXPNDRkGO9LV1gppUVPZsAYAA"
+ },
+ "living-mountain-view": {
+  "w": 3000,
+  "h": 2252,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Living room with floor-to-ceiling windows framing the mountains",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAwCdASoUAA8APu1mqk2ppaQiMAgBMB2JZwC2yCHYBLjxqctTAAD+w4qxzSIWKHZcTxIFd8/OORDUgC/Vp54WjFATIjRq2AA="
+ },
+ "great-room-open": {
+  "w": 3000,
+  "h": 2252,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Open great room flowing into a kitchen",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwBACdASoUAA8APu1krU6ppaSiMAgBMB2JZwC7MlUAzIfyIM9hYRD/h4AA/udh6X6NbNsdFhv3JeifTExBB/S5baqln2pmEtsZ5d9XAAA="
+ },
+ "bath-freestanding-tub": {
+  "w": 3000,
+  "h": 2258,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Spa bathroom with a freestanding tub and patterned tile",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAwCdASoUAA8APu1mqk2ppaQiMAgBMB2JZwAAW+q+YZjPF9pMlgAA/ucxOrumxdlDreD59lh59YzdRPVfLTzHzItlmnI0mAA="
+ },
+ "living-red-sofa": {
+  "w": 2000,
+  "h": 1505,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Living room with a red sofa and media wall",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASoUAA8APu1kq04ppaQiMAgBMB2JYgC22f/gPeAK2MzMahwrSgz0uAAA/tQFf2KptI/S9IY2e3Y6NcNCt/wDKMFn+13rVycem+3x9yV6xwyOhdgBjzJRsclcHYcgAA=="
+ },
+ "kitchen-island-gray": {
+  "w": 2000,
+  "h": 1505,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Gray chef kitchen with a long quartz island",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABQBACdASoUAA8APu1mqk2ppaQiMAgBMB2JZwDCgCHfcATQlJH/n0NouomAAP5VVkonY8tz1wjTMjqW+MxslLsA/5X4oAAA"
+ },
+ "bath-double-vanity": {
+  "w": 2000,
+  "h": 1505,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Double vanity bathroom with round mirrors",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAwCdASoUAA8APu1krU2ppaSiMAgBMB2JZwAAW8DIDlMwlgAA/sOPEcN8EaUU/RKsEN00t72x/0XodlXgY4OAAAA="
+ },
+ "living-arched": {
+  "w": 1255,
+  "h": 945,
+  "widths": [
+   640,
+   1255
+  ],
+  "alt": "White living room with an arched opening to the dining area",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAwCdASoUAA8APu1mq04ppaQiMAgBMB2JZQBTAAeb5qlrSrLyuYsAAP7fQRKuxn2csxbX7ZXXiuPeBIPU+9J06p1Aap4mfAAAAA=="
+ },
+ "kitchen-white-classic": {
+  "w": 1255,
+  "h": 945,
+  "widths": [
+   640,
+   1255
+  ],
+  "alt": "Classic white kitchen with a granite island",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoUAA8APu1kqU2ppaQiMAgBMB2JZQDE2CFU5/l70ucEknAA/tNUL755REjEznoiRWZVOc5REj1Rg8BVl317kTobM2KqHw1Nc1zlwAAA"
+ },
+ "bedroom-statement": {
+  "w": 6720,
+  "h": 4480,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Primary bedroom with a statement chandelier and accent wall",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAwCdASoUAA0APu1iqk2ppaQiMAgBMB2JZwDImB5VXSSGMlZ16tQA/LHM1Fr65C7rE6eMI3I7jwxzNguvlxEmOxBPTUFoAAA="
+ },
+ "kitchen-wood-island": {
+  "w": 1417,
+  "h": 945,
+  "widths": [
+   640,
+   1280,
+   1417
+  ],
+  "alt": "Bright kitchen with a wood-wrapped island and pendant lights",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAwCdASoUAA0APu1oqk6ppiQiMAgBMB2JZQC7ACHhVQL5XBiRTbWAAP7DkerNEEDOIpG9Zdxoc6AzzxX0vDNrBt2i5AAA"
+ },
+ "kitchen-wide": {
+  "w": 1418,
+  "h": 945,
+  "widths": [
+   640,
+   1280,
+   1418
+  ],
+  "alt": "Wide view of a white kitchen with bar seating",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAwCdASoUAA0APu1mqk2ppaQiMAgBMB2JZQC7ACHfrqnWy4YhggAA/t6vbKpHrehhaw+/PvuFwuXovgPO1cAGwLUXAAAA"
+ },
+ "living-fireplace-gold": {
+  "w": 1418,
+  "h": 945,
+  "widths": [
+   640,
+   1280,
+   1418
+  ],
+  "alt": "Living room with gold accents and a modern fireplace wall",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JYwC/OB8lWZbYrL46t4b39AD83NQuuuBLpcurHV0ISqcuNNNEaTXDCoxo6MsOQ7oSl85h0Wi6tCp/eWSOzwAA"
+ },
+ "media-room": {
+  "w": 6704,
+  "h": 4469,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Media room with a dark feature wall and sectional",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAwCdASoUAA0APu1kqU2ppaQiMAgBMB2JZwC+SBo27FDaS8xGxAAA/prpcllAnINVPeq5W5HbX9epAjPIU784xNFFGen2qxokNx30cAA="
+ },
+ "kitchen-pendants": {
+  "w": 3000,
+  "h": 2257,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Kitchen with black pendant lights over a marble island",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAwCdASoUAA8APu1kqU2ppaQiMAgBMB2JaQAAW+kIx9ZIzGYJOCAA/sT11xCRslGIaEOZaS9ZOkPj9q1IqwQH3GRnndEDAAA="
+ },
+ "lounge-luxury": {
+  "w": 1729,
+  "h": 1076,
+  "widths": [
+   640,
+   1280,
+   1729
+  ],
+  "alt": "Luxury lounge with a halo chandelier and floor-to-ceiling glass",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAwCdASoUAAwAPu1krU6ppaSiMAgBMB2JZQC2yB6RRorZiNfoWYAA/rmLQ1iWqu1gG3DydFLTR4NZXDeEcDOHMiAAAA=="
+ },
+ "dining-luxury": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ],
+  "alt": "Formal dining room with a crystal chandelier and wine wall",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQBACdASoUAAsAPu1kq04ppaQiMAgBMB2JZQCdACFsJa2f4ANwVr6cAAD+rAmDj9gw8PAVQwjrgddIb/Z/RDB6EGPxqyhy0QPj2AAA"
+ },
+ "living-white-fireplace": {
+  "w": 3466,
+  "h": 1950,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "All-white living room with a sculptural fireplace",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAwCdASoUAAsAPu1Ct1apoqakGAEwHYlpAABc8J1tA7LjQwcpAAD+lanaJ0HYFyrd+YnxttiUbserBXqjpMfKs+EAAA=="
+ },
+ "kitchen-dining": {
+  "w": 2000,
+  "h": 1505,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Kitchen and dining area with black stools",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAwCdASoUAA8APu1iqk2ppaQiMAgBMB2JZwDA3CHZhc2bqJO+zH1aAP7ewuKD0l3nkeBZOmpTqcbiJd3fy+GkC4AAAA=="
+ },
+ "living-bright-white": {
+  "w": 3528,
+  "h": 1985,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Bright white living room with soft seating",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAwCdASoUAAsAPu1iqU2ppaQiMAgBMB2JZwAAYcLfRZQboAAA/t+mArdnjKeaGItxLhpk1I23piQ8pfnppWDwAAA="
+ },
+ "shelves-wood": {
+  "w": 709,
+  "h": 945,
+  "widths": [
+   640,
+   709
+  ],
+  "alt": "Warm wood shelving styled with books and ceramics",
+  "cat": "interiors",
+  "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBQCdASoUABsAPu1qrVCppiQiqAqpMB2JZgCsLwG9fhJ370MWLw6HokZG6hHUdDPOMAD+3ueus8ZV5318/HUVDgzgrGfsqz625MAmzP2BspMXcWLFGXh3OzzMnhBu7HM1N2l6n68yUFFmatyMSdUiPLQRa7+6MnSr4Ih3J/2MubEAAAA="
+ },
+ "backyard-ramada": {
+  "w": 1259,
+  "h": 945,
+  "widths": [
+   640,
+   1259
+  ],
+  "alt": "Backyard with a ramada, lawn and pool",
+  "cat": "exteriors",
+  "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASoUAA8APu1iqU2ppaOiMAgBMB2JagCdACHhBmxs3ofc8phTAADOJsz42PFVykAWrbtok6OPPrRoQE2uj1g4ByicG1K1o43ipq6EDva5hF6pgRU/bEOzAAAA"
+ },
+ "pool-desert-modern": {
+  "w": 3000,
+  "h": 2258,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Rectangular pool behind a desert ranch home",
+  "cat": "exteriors",
+  "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwBACdASoUAA8APu1kqU2ppaOiMAgBMB2JZgCdMoRwHuA2gABs9dzqAwfRbWV4AP5bewTYq/wmwomtSZ8jler28ObF+JjvZPcRfbPNJmGrQZoQVsY83gkndUoAAA=="
+ },
+ "front-palms": {
+  "w": 2000,
+  "h": 1500,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Front of a stucco home with palms at sunset",
+  "cat": "exteriors",
+  "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAwCdASoUAA8APu1iqU2ppaOiMAgBMB2JQBOgA3A+s+BWAlbKAAD9Q/+hnQmfkVXxAmM4nKUsrKf/FOEwyI1TbPXP/EDHNcAAAA=="
+ },
+ "front-courtyard": {
+  "w": 2000,
+  "h": 1500,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Courtyard entry with desert landscaping at dusk",
+  "cat": "exteriors",
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwBACdASoUAA8APu1iqU2ppaQiMAgBMB2JQBOmUABsptku6v76lKSooAAA/tnRGmkVRs+VdxYiAp8jxaZDw9syuTm1AoP/qHOzUBYoAAA="
+ },
+ "patio-dusk": {
+  "w": 2000,
+  "h": 1500,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Covered patio and lawn at dusk",
+  "cat": "exteriors",
+  "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoUAA8APu1iqU2ppaQiMAgBMB2JQBOgBDsB8Iu70iZgAM48ACv6nv9v3XhUt2MiYfx1G6UEDPDJ6vyiLTQcmSfDkJv+hT5msSAAAA=="
+ },
+ "front-tuscan": {
+  "w": 1256,
+  "h": 945,
+  "widths": [
+   640,
+   1256
+  ],
+  "alt": "Tuscan-style home with a paver walkway",
+  "cat": "exteriors",
+  "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASoUAA8APu1kqU2ppaQiMAgBMB2JZACdMoMnJEFBln05HQFHdmAA/bI5+pZ2jsc194RXLlfFy44mQDVirIIbmCzXDwg/DHtnqx1Eff9JMdiJtNCgAAA="
+ },
+ "front-cactus": {
+  "w": 3000,
+  "h": 2258,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Single-story home with tall cactus and desert garden",
+  "cat": "exteriors",
+  "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoUAA8APu1mqk4ppaOiMAgBMB2JZACdAB8/YjnBp0jii5gA/tCR4Edq7yw2hdMk9KjVvif3PYoKpDXfuvZtNR/hbCqNzKhxKGba3AAA"
+ },
+ "pool-palms": {
+  "w": 2000,
+  "h": 1500,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Backyard pool framed by palm trees",
+  "cat": "exteriors",
+  "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASoUAA8APu1mq04ppaQiMAgBMB2JbACdMoADQujhjNmgvlOi7q5QAP5aNKqBpsbYSAaPoGQqDgnXCaVRFfr0SWfKwdZCRhtDP+j3VwxYentvBFtmhJL838jMumD2AAAA"
+ },
+ "front-ranch": {
+  "w": 2000,
+  "h": 1500,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Ranch-style home with mature trees",
+  "cat": "exteriors",
+  "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoUAA8APu1kqk4ppaQiMAgBMB2JQBOmUABsaexWz5joCrKAAP7FwM3gudkkMSlcU4uspyq8xsMSn+mNpZjbdkGAEr+x8zRGlSGSJ9TOqa2m2sHgAAA="
+ },
+ "front-sky": {
+  "w": 1260,
+  "h": 945,
+  "widths": [
+   640,
+   1260
+  ],
+  "alt": "Desert home under a dramatic blue sky",
+  "cat": "exteriors",
+  "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoUAA8APu1mq04ppaQiMAgBMB2JbACdACPa/JnOHaQeOU+wAP369OtFgAAjlDIHt6z/X/urddl9szuZ+2qEfcau6avAzujDsHcZMIjir+aUR1UM3Ty5gAAA"
+ },
+ "hillside-pool": {
+  "w": 1259,
+  "h": 945,
+  "widths": [
+   640,
+   1259
+  ],
+  "alt": "Hillside pool tucked against red rock",
+  "cat": "exteriors",
+  "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoUAA8APu1yrU+pp6QiMAgBMB2JQBOmUABfeNhvKZfCNGGFAADvfa93gRkiFZ293fJW3+gM23Jw+mcNnt87S9IJ+Y/+5GhA/i0uv6zj2gA="
+ },
+ "twilight-wide": {
+  "w": 2000,
+  "h": 1500,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Twilight photo of a desert estate with a long driveway",
+  "cat": "twilight",
+  "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAwCdASoUAA8APu1kqU4ppaOiMAgBMB2JYwCdACHWxgRbPX58S3AA3WppSCz/PYaJF9opAQHcFobCVcZM++fh/7st4K0stZIAAA=="
+ },
+ "twilight-close": {
+  "w": 2000,
+  "h": 1500,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Twilight exterior with warm interior lights",
+  "cat": "twilight",
+  "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAABwAwCdASoUAA8APu1iqU2ppaOiMAgBMB2JQBWABDqcFDvxc0AA96UvRoXVoXq8zoDuC1hFbJTCr1Wabux4pAAA"
+ },
+ "twilight-garage": {
+  "w": 1256,
+  "h": 945,
+  "widths": [
+   640,
+   1256
+  ],
+  "alt": "Modern home at twilight with glowing garage lights",
+  "cat": "twilight",
+  "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoUAA8APu1iqk2ppaQiMAgBMB2JZACdMoADg/aewBYlUCXwAPx//TCNNcRGt78ulbpSrK+QfLF8hqbNiz4FYPqI0UhxUcch/cdPsmAAAAA="
+ },
+ "twilight-pool": {
+  "w": 1256,
+  "h": 945,
+  "widths": [
+   640,
+   1256
+  ],
+  "alt": "Virtual twilight of a backyard pool under a pink sky",
+  "cat": "twilight",
+  "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoUAA8APu1mq04ppaQiMAgBMB2JQBOmUABlIolxWKyjzyXAAP5JKxGjUaqthjzRydMu5qn7FxMH5+WIO4SvSVbYDy7nQBUIrYVAYAAA"
+ },
+ "twilight-virtual": {
+  "w": 2000,
+  "h": 1505,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Virtual twilight of a desert contemporary home",
+  "cat": "twilight",
+  "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAwCdASoUAA8APu1iqk2ppaQiMAgBMB2JQBOgBDrVmNvniFYAAN4y0ImGotxPzyAk7DKQRZ3WuVfs+0cICoT14O0PM3X//sAAAA=="
+ },
+ "twilight-cactus": {
+  "w": 2000,
+  "h": 1504,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Twilight front elevation with uplit cactus",
+  "cat": "twilight",
+  "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4WAoAAAAQAAAAEwAADgAAQUxQSBQAAAABD9D/iAgICQgP/F+rWxDR/2QsAVZQOCBQAAAAMAQAnQEqFAAPAD7tYqpNqaWkIjAIATAdiWMAnTKAAq20SsstR2Bsor6AAP7cr+hqVDs2m6AhCvSQyzuljj62kuhwx1G0tWIGHAAzfZ0AAAA="
+ },
+ "twilight-aerial": {
+  "w": 2000,
+  "h": 1500,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Aerial twilight of a home with solar panels",
+  "cat": "twilight",
+  "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAwCdASoUAA8APu1iqk4ppaQiMAgBMB2JZQCdAB7FjcOBODesYfyAAP6oZUfv+ezJszAM8LT7UZmeonZm+F05/XY9wwLA1SAAAA=="
+ },
+ "aerial-lake-community": {
+  "w": 1955,
+  "h": 1100,
+  "widths": [
+   640,
+   1280,
+   1920,
+   1955
+  ],
+  "alt": "Aerial of a lakeside community with tennis courts",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoUAAsAPu1iqU2ppaQiMAgBMB2JQBOj+ABMG3462UBdAAD9QmKSB3EU9X3EjRhd2kypc7dT1R6COvv7M43haBme7StSdii5D4RmuhSE+dB5PAAA"
+ },
+ "aerial-hillside-dusk": {
+  "w": 1560,
+  "h": 878,
+  "widths": [
+   640,
+   1280,
+   1560
+  ],
+  "alt": "Drone view of a hillside home against the mountains at dusk",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQBACdASoUAAsAPu1iqU2ppaQiMAgBMB2JYwCdACHv5IuR98YzyvKWQAD8s+MHbJPRz+leff5ODc5Rv7+rINYhxSFxOP889hUsX7hAAAA="
+ },
+ "aerial-valley": {
+  "w": 1955,
+  "h": 1100,
+  "widths": [
+   640,
+   1280,
+   1920,
+   1955
+  ],
+  "alt": "Wide aerial of the Phoenix mountain preserve and neighborhoods",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAwCdASoUAAsAPu1iqk4ppaQiMAgBMB2JQBOmUABpepXntfHVuAD+kaaYV+I8XO0clH1hCERejrll8TbvGOFc62EVBYQSYY0GHRiAAAA="
+ },
+ "aerial-ridge": {
+  "w": 3000,
+  "h": 1688,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Aerial of desert ridges above the city",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAwCdASoUAAsAPu1mqk4ppaOiMAgBMB2JQBOkCYhicDQG1xuUzRgA4gL4TSe6iy2VIaZvJhbdhUVIil6GJPZm1XdqfiaEwgRAAA=="
+ },
+ "aerial-view-from-home": {
+  "w": 3000,
+  "h": 2252,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Mountain view from a hillside property",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAwCdASoUAA8APu1krU6ppaSiMAgBMB2JQBOmUABp0iI0BDNI8AugAP7fn3BrZdWbWgebuwh/VFHQy8Pj9C+IK47UsoogAAA="
+ },
+ "aerial-city": {
+  "w": 3000,
+  "h": 1688,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Aerial of the valley stretching to the horizon",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACQAwCdASoUAAsALrV2u12jqampiYC0SxgE6AIdds7xhPwx+RKAAP6yPZJAppTA3Gy4Luu99zRHb11Yu9+4xzvnROAfrgZAAAA="
+ },
+ "aerial-acreage": {
+  "w": 958,
+  "h": 539,
+  "widths": [
+   640,
+   958
+  ],
+  "alt": "Aerial of desert acreage with mountains beyond",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAwCdASoUAAsAPu1yrU+pp6QiMAgBMB2JQBOmUABpyxNf0TCyIrwA/sRe9d+UReWOhYkh/zSYfdLPRbiUQlG215kmawQA"
+ },
+ "aerial-lot": {
+  "w": 2000,
+  "h": 1125,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Top-down drone shot of a lot and street",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAABwAwCdASoUAAsAPu1iqU2ppaOiMAgBMB2JYwCdMoAA26YnwiAA8Becr89RYFBvbjY0QLkUNwV13uznGDO+xrZOEhWZUegAAAA="
+ },
+ "aerial-oblique": {
+  "w": 2000,
+  "h": 1125,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Oblique drone shot of a home and front yard",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASoUAAsAPu1mqk2ppaQiMAgBMB2JZgCdIE3J/gNn83iGXSUn9XiAAOH6fUAAVzdkTIrcBQvtb/N2m9Romy5vWhs1UR5asOyDGfMnOznKI7okROhSnoAFZNplQY/9AAAA"
+ },
+ "aerial-trees": {
+  "w": 1260,
+  "h": 945,
+  "widths": [
+   640,
+   1260
+  ],
+  "alt": "Aerial of homes among boulders and trees",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoUAA8APu1iqk4ppaQiMAgBMB2JQBOmUAAvYetATO6nWCzAAPoj+2iTDj2HlPDiGTdtOUht5Uxv088dTws+fjT8wfVs4F8b6Q+BkAAA"
+ },
+ "aerial-pool-topdown": {
+  "w": 3105,
+  "h": 2329,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Top-down drone view of a backyard pool",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASoUAA8APu1kqU2ppaQiMAgBMB2JZgCdABw9576DbIoyssYAAN3WqC/YnhjKASORSyiwcsCmCT16XKA+1V4L1mEB7VYpGRm4d7D7b+zx82iAAA=="
+ },
+ "aerial-roof-pool": {
+  "w": 2000,
+  "h": 1500,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Overhead view of a tile roof and pool",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoUAA8APu1iqU2ppaOiMAgBMB2JYgCw7BIRQffOHcRsJQAA+pQuMdZ0Pzw+L/f7BXDpL3x0++aLLNy+LV1nDKglyZnIoojW9kgtvYtK5BroYhbx8VmX2T+AAAA="
+ },
+ "aerial-backyard": {
+  "w": 2000,
+  "h": 1500,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Drone view of a backyard with pool and lawn",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQBACdASoUAA8APu1iqU2ppaOiMAgBMB2JZgC7ABXuhRVC9A1cqmzeAAD+0JA9z+Io6gIY0aWuyOSahCFI8dzpft+ovDIYt7b22eCY+HursVfxSMWWfxIgAAA="
+ },
+ "aerial-street": {
+  "w": 2000,
+  "h": 1500,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2000
+  ],
+  "alt": "Low drone shot of a home and its street",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASoUAA8APu1iqk2ppaQiMAgBMB2JZACdMoMYAE4WfLsIHMX44AD94pmSbGvOYR3OgYqc9N69miL3yywMZnl+Zioe4X9xXiLwx+sfM0gnFHgh/oOeO9ctxoAA"
+ },
+ "aerial-foothills": {
+  "w": 1955,
+  "h": 1100,
+  "widths": [
+   640,
+   1280,
+   1920,
+   1955
+  ],
+  "alt": "Aerial of a neighborhood at the foot of the mountains",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQBACdASoUAAsAPu1kqk4ppaQiMAgBMB2JYgCdMoS6AA4RS+NyJTJAAADciKF++k7ecklwot/Dka5UsCQN++LbUgI3nvlAnypBYZ+mAAA="
+ },
+ "aerial-canyon": {
+  "w": 1560,
+  "h": 878,
+  "widths": [
+   640,
+   1280,
+   1560
+  ],
+  "alt": "Aerial of a green canyon in the Sonoran desert",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAwCdASoUAAsAPu1kq04ppaQiMAgBMB2JQBOgBDjZmgi1UFKMgAD+kbT59y+jMkGGcWrt/xJ57AjO52aRn0a06i2eMY+mjYgAAA=="
+ },
+ "aerial-river": {
+  "w": 1560,
+  "h": 878,
+  "widths": [
+   640,
+   1280,
+   1560
+  ],
+  "alt": "Drone view of a desert river valley",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoUAAsAPu1iqU2ppaOiMAgBMB2JYgCdACHh3Pf7NZkGkL8AAP39M0QMGAJWDd8PikauK8JU5xJb3FNj1bDAiqhZATc4Agi6vxfrgAAA"
+ },
+ "aerial-golf": {
+  "w": 1432,
+  "h": 805,
+  "widths": [
+   640,
+   1280,
+   1432
+  ],
+  "alt": "Aerial of a master-planned community",
+  "cat": "aerial",
+  "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAwCdASoUAAsAPu1mq04ppaQiMAgBMB2JZgCdGuAAWY6sephq93QA/pEkArmT1emWSLRGy5gykCor5EY3JLx55mYI22Nt+ItJAlAA"
+ },
+ "staging-before": {
+  "w": 3000,
+  "h": 2258,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Empty living room before virtual staging",
+  "cat": "staging",
+  "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAwCdASoUAA8APu1kqU2ppaQiMAgBMB2JZQDE2CHFmM6UNVxgAP7eshTvVUC7H4lM63z8aYHDYUNzVw4WhvvSHqY4bcwePdAmAA=="
+ },
+ "staging-after": {
+  "w": 3000,
+  "h": 2258,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "The same living room after virtual staging",
+  "cat": "staging",
+  "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACQAwCdASoUAA8APu1krU6ppaSiMAgBMB2JZQC7ACHLCiumGUcAAP7esiGUYyMVCEji/BH2Ol1xAGELFDb4L9uBoAA="
+ },
+ "staging-bedroom": {
+  "w": 1256,
+  "h": 945,
+  "widths": [
+   640,
+   1256
+  ],
+  "alt": "Virtually staged bedroom",
+  "cat": "staging",
+  "lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAwCdASoUAA8APu1qrU8ppiQiMAgBMB2JZwAAW+uKFwvJ98+C6AD+0xLiJ1EvQabxdU3ESIjhPLxyhcYAAA=="
+ },
+ "on-set-video": {
+  "w": 4038,
+  "h": 2692,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Videographer filming a property walkthrough",
+  "cat": null,
+  "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoUAA0APu1mq04ppaQiMAgBMB2JQAALjJmrhF0etm/+IAD+JpuZQbSC/RFXny4xWh1LrelfuT8wf+57aG7Ld223ScJ1fUx/tCACYwKAAAA="
+ },
+ "agent-branding": {
+  "w": 1417,
+  "h": 945,
+  "widths": [
+   640,
+   1280,
+   1417
+  ],
+  "alt": "Agent team branding portrait",
+  "cat": null,
+  "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAwCdASoUAA0APu1kq04ppaQiMAgBMB2JYgCsACEa+mLLgFAqIAD9D9jhgbwubr02oPUwYyaVzmx7gk1PD4HmbSrcjvTi+jxYi327/oiYfHDEmA8AAA=="
+ },
+ "floor-plan": {
+  "w": 2732,
+  "h": 2049,
+  "widths": [
+   640,
+   1280,
+   1920,
+   2560
+  ],
+  "alt": "Measured 2D floor plan",
+  "cat": null,
+  "lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAAAwAwCdASoUAA8APu1kqU2tJaQiMAgBoB2JaQAAetCg73wAAP7waGP8XiuTDMROAAA="
+ }
+}

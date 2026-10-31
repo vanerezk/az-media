@@ -1,0 +1,84 @@
+.cta-band {
+  position: relative;
+  isolation: isolate;
+  display: grid;
+  align-items: center;
+  min-height: clamp(480px, 80vh, 760px);
+  color: var(--white);
+  overflow: hidden;
+}
+
+.cta-band__bg {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+}
+
+.cta-band__bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgb(10 10 9 / 0.78) 0%, rgb(10 10 9 / 0.35) 60%, rgb(10 10 9 / 0.15));
+}
+
+.cta-band__content > div {
+  display: grid;
+  gap: var(--space-3);
+  max-width: 40rem;
+  padding-block: var(--space-6);
+}
+
+.cta-band .eyebrow {
+  color: #e6e0d3;
+}
+
+.cta-band h2 {
+  font-size: var(--step-4);
+}
+
+.cta-band p {
+  font-size: var(--step-1);
+  color: #ece7dc;
+  max-width: 34rem;
+}
+
+.cta-band__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin-top: var(--space-2);
+}
+
+/* YouTube facade (shared) */
+.yt {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: var(--radius);
+}
+
+.yt--poster {
+  position: relative;
+  display: grid;
+  place-items: center;
+  background-color: var(--ink);
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+}
+
+.yt__play {
+  display: grid;
+  place-items: center;
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: var(--accent-ink);
+  box-shadow: 0 10px 40px rgb(0 0 0 / 0.35);
+  transition: transform var(--dur) var(--ease-out);
+}
+
+.yt--poster:hover .yt__play {
+  transform: scale(1.08);
+}
