@@ -11,7 +11,7 @@ export default function Footer() {
         <div className='site-footer__top'>
           <div className='site-footer__brand'>
             <img
-              src='/img/logo-white.png'
+              src={`${import.meta.env.BASE_URL}img/logo-white.png`}
               alt='AZ Listing Media'
               width='120'
               height='68'

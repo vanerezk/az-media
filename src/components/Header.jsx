@@ -54,7 +54,7 @@ export default function Header() {
           className='site-header__logo'
           aria-label='AZ Listing Media, home'>
           <img
-            src={overlay ? '/img/logo-white.png' : '/img/logo-black.png'}
+            src={`${import.meta.env.BASE_URL}img/${overlay ? 'logo-white' : 'logo-black'}.png`}
             alt=''
             width='120'
             height='68'
