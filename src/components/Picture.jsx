@@ -1,6 +1,6 @@
 import {images} from '../lib/images';
 
-const BASE = '/img';
+const BASE = `${import.meta.env.BASE_URL}img`;
 
 function srcSet(id, widths, ext) {
   return widths.map((w) => `${BASE}/${id}-${w}.${ext} ${w}w`).join(', ');
